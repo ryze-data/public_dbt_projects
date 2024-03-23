@@ -73,10 +73,15 @@ For more information on these sector visit [BLS](https://www.bls.gov/ces/naics/)
 ### Other Services (except Public Administration)  
 ### Public Administration  
 
+
+
+# Extra
+
+## Sector Mapping
 ```mermaid
 
 %%{init: {"themeVariables": {"primaryColor": "#009688"}}}%%
-flowchart TD
+flowchart LR
     A[Agriculture Forestry Fishing and Hunting]
     B[Mining Quarrying and Oil and Gas Extraction]
     C[Utilities]
