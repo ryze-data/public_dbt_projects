@@ -11,7 +11,7 @@ The goal of this repo is to start organizing great example (fictional but releva
 
 Click the ector you are particularly interested in. If you see a sample project use it. If you don't please consider having it added.
 
-## Projects by Sector
+## Projects by Sector/Industry
 This is a collection of dbt projects categorized by Sectors and Industry:
 
 | Definition | Sector   |  Project |
@@ -37,11 +37,7 @@ This is a collection of dbt projects categorized by Sectors and Industry:
 | Other Services (except Public Administration)  | 81	   | Not Available |
 | Public Administration  | 92	   | Not Available |
  
-Resources:
-
-[BLS](https://www.bls.gov/ces/naics/)
-
-[census.gov](https://www.census.gov/naics/?58967?yearbck=2022)
+For more information on these sector visit [BLS](https://www.bls.gov/ces/naics/) and [census.gov](https://www.census.gov/naics/?58967?yearbck=2022):
 
 ---
 
@@ -76,3 +72,30 @@ Resources:
 ### Accommodation and Food Services  
 ### Other Services (except Public Administration)  
 ### Public Administration  
+
+```mermaid
+
+%%{init: {"themeVariables": {"primaryColor": "#009688"}}}%%
+flowchart TD
+    A[Agriculture Forestry Fishing and Hunting]
+    B[Mining Quarrying and Oil and Gas Extraction]
+    C[Utilities]
+    D[Construction]
+    E[Manufacturing]
+    F[Wholesale Trade]
+    G[Retail Trade]
+    H[Transportation and Warehousing]
+    I[Information]
+    J[Finance and Insurance]
+    K[Real Estate and Rental and Leasing]
+    L[Professional Scientific and Technical Services]
+    M[Management of Companies and Enterprises]
+    N[Administrative and Support and Waste Management and Remediation Services]
+    O[Educational Services]
+    P[Health Care and Social Assistance]
+    Q[Arts Entertainment and Recreation]
+    R[Accommodation and Food Services]
+    S[Other Services except Public Administration]
+    T[Public Administration]
+
+```
