@@ -16,13 +16,13 @@ This is a collection of dbt projects categorized by Sectors and Industry:
 
 | Definition | Sector   |  Project |
 | ----------------------------------------------------------- | -------- | -------- |
-| [Agriculture, Forestry, Fishing and Hunting](###Agriculture,-Forestry,-Fishing-and-Hunting)  | 11	   | Not Available |
-| Mining, Quarrying, and Oil and Gas Extraction  | 21	   | Not Available |
+| Agriculture, Forestry, Fishing and Hunting  | 11	   | Not Available |
+| Mining, Quarrying, and Oil and Gas Extraction | 21	   | Not Available |
 | Utilities  | 22	   | Not Available |
 | Construction  | 23	   | Not Available |
 | Manufacturing  | 31-33	   | Not Available |
-| Wholesale Trade  | 42 | Not Available |
-| Retail Trade | 44-45	   | Not Available |
+| [Wholesale Trade](#wholesale-trade)  | 42 | Not Available |
+| [Retail Trade](#retail-trade) | 44-45	   | Not Available |
 | Transportation and Warehousing  | 48-49	   | Not Available |
 | Information  | 51	   | Not Available |
 | Finance and Insurance  | 52	   | Not Available |
@@ -45,33 +45,34 @@ Resources:
 
 ---
 
-### Agriculture, Forestry, Fishing and Hunting  
-### Mining, Quarrying, and Oil and Gas Extraction  
+### Agriculture Forestry Fishing and Hunting  
+### Mining Quarrying and Oil and Gas Extraction  
 ### Utilities  
 ### Construction  
 ### Manufacturing
+
 ### Wholesale Trade
 
-| Name | Project Link | Info Link |
-|--|---|--|
-| Wide World Importers | | fictional wholesale novelty goods import and distributor operating from San Fran bay area. Customers are companies selling to individuals|
+| Name | Project Link | Info Link | Maintainer|
+|--|---|--|--|
+| Wide World Importers | | fictional wholesale novelty goods import and distributor operating from San Fran bay area. Customers are companies selling to individuals| Microsoft |
 
 ### Retail Trade 
 
-| Name | Project Link | Description |
-|--|---|--|
-| Jaffle Shop | [Jaffle Shop Repo](https://github.com/dbt-labs/jaffle_shop) | ecommerce store. |
+| Name | Project Link | Info Link | Maintainer|
+|--|---|--|--|
+| Jaffle Shop | [Jaffle Shop Repo](https://github.com/dbt-labs/jaffle_shop) | ecommerce store | dbt Labs
 
 ### Transportation and Warehousing
 ### Information  
 ### Finance and Insurance  
 ### Real Estate and Rental and Leasing  
-### Professional, Scientific, and Technical Services 
+### Professional Scientific and Technical Services 
 ### Management of Companies and Enterprises  
 ### Administrative and Support and Waste Management and Remediation Services  
 ### Educational Services  
 ### Health Care and Social Assistance  
-### Arts, Entertainment, and Recreation  
+### Arts Entertainment and Recreation  
 ### Accommodation and Food Services  
 ### Other Services (except Public Administration)  
 ### Public Administration  
