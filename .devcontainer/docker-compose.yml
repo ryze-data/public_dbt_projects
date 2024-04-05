@@ -1,0 +1,9 @@
+version: '1.0'
+services:
+  prefectdevcontainer:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ../..:/workspaces:cached      
+    command: /bin/sh -c "while sleep 1000; do :; done"
